@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
  * developed by : Lavanya
  * reviewed by : Michael
  * created : Mar 9
- * Description : This class will take care of the all driver related stuff
+ * Description : This class will take care of the all driver related stuff only
  * 
  */
 import org.openqa.selenium.support.FindBy;
