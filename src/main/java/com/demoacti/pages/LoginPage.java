@@ -1,6 +1,14 @@
 package com.demoacti.pages;
 
 import org.openqa.selenium.WebElement;
+/*
+ * Name : DriverScripts
+ * developed by : Lavanya
+ * reviewed by : Michael
+ * created : Mar 9
+ * Description : This class will take care of the all driver related stuff
+ * 
+ */
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
